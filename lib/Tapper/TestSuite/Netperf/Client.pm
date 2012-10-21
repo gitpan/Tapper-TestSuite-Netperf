@@ -3,7 +3,7 @@ BEGIN {
   $Tapper::TestSuite::Netperf::Client::AUTHORITY = 'cpan:AMD';
 }
 {
-  $Tapper::TestSuite::Netperf::Client::VERSION = '4.0.1';
+  $Tapper::TestSuite::Netperf::Client::VERSION = '4.1.0';
 }
 # ABSTRACT: Tapper - Network performance measurements - Client
 

@@ -1,9 +1,11 @@
 package Tapper::TestSuite::Netperf;
+# git description: v4.0.1-1-g8b1c532
+
 BEGIN {
   $Tapper::TestSuite::Netperf::AUTHORITY = 'cpan:AMD';
 }
 {
-  $Tapper::TestSuite::Netperf::VERSION = '4.0.1';
+  $Tapper::TestSuite::Netperf::VERSION = '4.1.0';
 }
 # ABSTRACT: Tapper - Network performance measurements
 

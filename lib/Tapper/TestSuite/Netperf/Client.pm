@@ -1,9 +1,9 @@
 package Tapper::TestSuite::Netperf::Client;
 BEGIN {
-  $Tapper::TestSuite::Netperf::Client::AUTHORITY = 'cpan:AMD';
+  $Tapper::TestSuite::Netperf::Client::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::TestSuite::Netperf::Client::VERSION = '4.1.0';
+  $Tapper::TestSuite::Netperf::Client::VERSION = '4.1.1';
 }
 # ABSTRACT: Tapper - Network performance measurements - Client
 

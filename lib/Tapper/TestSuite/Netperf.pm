@@ -1,11 +1,11 @@
 package Tapper::TestSuite::Netperf;
-# git description: v4.0.1-1-g8b1c532
+# git description: v4.1.0-2-gaabc828
 
 BEGIN {
-  $Tapper::TestSuite::Netperf::AUTHORITY = 'cpan:AMD';
+  $Tapper::TestSuite::Netperf::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::TestSuite::Netperf::VERSION = '4.1.0';
+  $Tapper::TestSuite::Netperf::VERSION = '4.1.1';
 }
 # ABSTRACT: Tapper - Network performance measurements
 
@@ -34,6 +34,10 @@ You most likely want to run the frontend cmdline tool like this
 
   # host 2
   $ tapper-testsuite-netperf-client
+
+=head1 DESCRIPTION
+
+This distribution provides Tapper with Network performance measurements.
 
 =head1 AUTHOR
 

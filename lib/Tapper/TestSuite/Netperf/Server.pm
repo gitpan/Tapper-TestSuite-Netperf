@@ -1,9 +1,9 @@
 package Tapper::TestSuite::Netperf::Server;
 BEGIN {
-  $Tapper::TestSuite::Netperf::Server::AUTHORITY = 'cpan:AMD';
+  $Tapper::TestSuite::Netperf::Server::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::TestSuite::Netperf::Server::VERSION = '4.1.0';
+  $Tapper::TestSuite::Netperf::Server::VERSION = '4.1.1';
 }
 # ABSTRACT: Tapper - Network performance measurements - Server
 
